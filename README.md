@@ -24,8 +24,8 @@ To get started with the Dev Insights Blog application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dev-insights-blog.git
-cd dev-insights-blog
+git clone https://github.com/Telesphore-Uwabera/Mini-Blog.git
+cd mini-blog
 ```
 
 ### 2. Install Dependencies
